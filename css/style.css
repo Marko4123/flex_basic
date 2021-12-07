@@ -15,6 +15,7 @@ header {
     display:flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 header .nav {
@@ -84,4 +85,10 @@ header .nav li {
     margin:0;
     line-height:1.6;
     color:#333;
+}
+footer {
+    text-align: center;
+    padding:20px 0;
+    color:#999;
+    font-size:.9rem;
 }
