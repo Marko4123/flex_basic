@@ -52,3 +52,13 @@ header .nav li {
     font-size:1.18rem;
     line-height:1.6;
 }
+.button {
+    background-color:#3949ab;
+    color:#fff;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-size:1.18rem;
+    display:inline-block;
+    margin-top:20px;
+}
